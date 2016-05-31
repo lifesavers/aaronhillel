@@ -1,6 +1,6 @@
 Aaron Hillel Swarz
 ==================
-A Tribute to a dead precedent. One reading of a Name.
+A small tribute to a tragic dead precedent. An open reading of a neshemah.
 
 Aharon
 -------
@@ -13,7 +13,7 @@ And the Lord said to him, "What is this in your hand?" And he said, "A staff."
 
 בוַיֹּאמֶר אֵלָיו יְהֹוָה מַה זֶּה (כתיב מזה) בְיָדֶךָ וַיֹּאמֶר מַטֶּה:
 
-3And He said, "Cast it to the ground," and he cast it to the ground, and it became a serpent, and Moses fled from before it.	 	
+And He said, "Cast it to the ground," and he cast it to the ground, and it became a serpent, and Moses fled from before it.	 	
 
 גוַיֹּאמֶר הַשְׁלִיכֵהוּ אַרְצָה וַיַּשְׁלִכֵהוּ אַרְצָה וַיְהִי לְנָחָשׁ וַיָּנָס משֶׁה מִפָּנָיו:
 
@@ -88,10 +88,7 @@ Hillel
 - "Let a man be always humble and patient like Hillel, and not passionate like Shammai" [(Shab. 30b; Ab. R. N. xv.)][hillel_the_elder]
 
 
-∫WARZ
------
-[Canary⁵][diccion⁺ARIO]
-CONSCIENCE-DRIVEN ∫TEAM WARZ
+∫ SWARZ : CONSCIENCE-DRIVEN STEAM WARS
 
 [http://www.aaronsw.com]()
 [http://brucelevine.net/how-societies-with-little-coercion-have-little-mental-illness/]()
